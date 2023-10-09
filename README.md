@@ -1,5 +1,5 @@
 # RelicHuntersSEG
-This was a part of my group coursework for Software Engineering for Games. I took on the role of the Core Developer. I was in charge on creating all of the UI and Menu systems, as well as merging all of the other group members work together, in order to create the final application run smoothly.
+This was a part of my group coursework for Software Engineering for Games. I took on the role of the Core Developer. I was in charge on creating all of the UI and Menu systems, as well as acting as the Scrum Master, in order to ensure the final application runs smoothly.
 
 # Group
 Our Group consisted of these 5 roles:
